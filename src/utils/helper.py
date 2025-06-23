@@ -3,6 +3,6 @@
 
 """
 
-Created a new conflict in conflicting-branch"
+Try and create new conflict in main"
 
 """
